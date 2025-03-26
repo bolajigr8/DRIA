@@ -261,3 +261,7 @@ p {
     transform: scale(1);
   }
 }
+
+.students-title {
+  margin-top: 2rem;
+}
